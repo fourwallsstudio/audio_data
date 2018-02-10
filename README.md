@@ -7,6 +7,7 @@ librosa
 
 ## use
 create directories:
+
 /split
 
 /house
@@ -18,10 +19,11 @@ create directories:
   /split
 
 
+
 put audio files in main directory and run `python split_audio.py`
 
 use only mp3 or wav files
 
-put samples in /<genre>/split
+put samples in /genre/split
 
-put full files in /<genre>/full
+put full files in /genre/full
