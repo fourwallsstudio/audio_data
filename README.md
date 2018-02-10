@@ -9,13 +9,11 @@ create directories:
 
 /split
 
-/house  
-  /full  
-  /split  
+/house/full  
+/house/split  
 
-/techno  
-  /full  
-  /split  
+/techno/full  
+/techno/split  
 
 
 
