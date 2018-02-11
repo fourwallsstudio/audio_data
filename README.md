@@ -12,8 +12,14 @@ from root:
 ./start.sh
  ```
 
+2. how to extract audio from youtube:
+install `brew install youtube-dl`  
+from command line:  
+cd to dir  
+run `youtube-dl -x --audio-format 'mp3' url`  
 
-2. put audio files in main directory and run `python split_audio.py`  
+
+3. put audio files in main directory and run `python split_audio.py`  
 use only mp3 or wav files  
 naming format for audio files: "Artist's Name - Song Title.ext"  
 put samples in /genre/split   
