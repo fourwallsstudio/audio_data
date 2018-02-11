@@ -5,19 +5,15 @@ pydub
 librosa  
 
 ## use
-create directories:
-
-/split
-
-/house/full  
-/house/split  
-
-/techno/full  
-/techno/split  
+1. create directories  
+from root:  
+ ```
+ chmod +x start.sh  
+./start.sh
+ ```
 
 
-
-put audio files in main directory and run `python split_audio.py`  
+2. put audio files in main directory and run `python split_audio.py`  
 use only mp3 or wav files  
 put samples in /genre/split   
 put full files in /genre/full  
