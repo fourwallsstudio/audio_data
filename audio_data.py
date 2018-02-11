@@ -49,6 +49,6 @@ class Data:
             for y in Y:
                 writer.writerow([y])
        
-data = Data.get_data()
-print(data)
-Data.save_to_csv(data)
+# data = Data.get_data()
+# print(data)
+# Data.save_to_csv(data)
