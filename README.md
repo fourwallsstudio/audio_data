@@ -12,7 +12,7 @@ from root:
 ./start.sh
  ```
 
-2. how to extract audio from youtube:
+2. how to extract audio from youtube:  
 install `brew install youtube-dl`  
 from command line:  
 cd to dir  
