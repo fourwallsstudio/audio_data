@@ -26,6 +26,6 @@ put samples in /genre/split
 put full files in /genre/full  
 
 
-## resourses
+## resources
 
 https://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf  
