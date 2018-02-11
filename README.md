@@ -30,3 +30,4 @@ put full files in /genre/full
 
 mfcc - http://recognize-speech.com/feature-extraction/mfcc  
 https://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf  
+tensorflow cnn: https://www.tensorflow.org/tutorials/layers  
